@@ -117,6 +117,7 @@ const Header = () => {
         </motion.button> 
       </div>
       
+      {/* menit 34:26 */}
 
     </header>
   );
