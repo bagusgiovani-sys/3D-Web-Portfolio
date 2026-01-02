@@ -1,5 +1,5 @@
-import {useRef, useEffect} from "react"
-import { gsap } from "gsap"
+import {useRef, useEffect} from "react";
+import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { RiInfraredThermometerFill } from "react-icons/ri";
 
@@ -84,6 +84,9 @@ const AboutSection = () => {
         }
 
     }, []);
+
+
+
 
 
     return (
